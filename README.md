@@ -97,6 +97,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Lead Researchers:
 - **Balaji Ganesh Rajagopal** - [balajiganesh.r@ist.srmtrichy.edu.in](mailto:balajiganesh.r@ist.srmtrichy.edu.in)
 - **Jagadeesh Kannan Raju** - [dr_rjk@hotmail.com](mailto:dr_rjk@hotmail.com)
-```
 
-This README provides a clear overview of the project, detailed instructions for setup and usage, and contact information for the lead researchers. Let me know if there’s anything more you'd like to add!
+
